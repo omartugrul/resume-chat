@@ -1,8 +1,17 @@
-# React + Vite
+# 📝 resume.chat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **resume.chat** is an AI-powered resume builder that helps users generate well-structured resume bullet points by describing their experience in natural language.
 
-Currently, two official plugins are available:
+## 📌 Features
+✅ AI-powered chat for resume building  
+✅ Live resume preview while chatting  
+✅ Supports pasting existing resumes for refinement  
+✅ Uses **Groq API (Mixtral 8x7B)** for AI-generated bullet points  
+✅ Built with **React + Vite, Tailwind CSS, shadcn/ui**  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Installation
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/YOUR-USERNAME/resume-chat.git
+cd resume-chat
